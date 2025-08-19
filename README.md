@@ -1,7 +1,7 @@
 # Foro Hub - Challenge Alura Latam & Oracle Next
 
 ## Descripción
-Foro Hub es una API REST desarrollada en Java con Spring Boot que permite a los usuarios de Alura Latam interactuar a través de un foro. Los participantes pueden crear, consultar, actualizar y eliminar tópicos relacionados con cursos y proyectos, fomentando la colaboración y el aprendizaje.
+Foro Hub es una API REST desarrollada en Java con Spring Boot que permite a los usuarios interactuar a través de un foro. Los participantes pueden crear, consultar, actualizar y eliminar tópicos relacionados con cursos.
 
 ---
 
