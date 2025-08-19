@@ -6,7 +6,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name = "usuarios") // <-- Apunta a la tabla correcta
+@Table(name = "usuarios")
 @Getter
 @Setter
 public class Usuario {
