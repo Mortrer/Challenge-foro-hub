@@ -1,0 +1,3 @@
+ALTER TABLE topicos
+ADD COLUMN curso VARCHAR(100) NOT NULL;
+
